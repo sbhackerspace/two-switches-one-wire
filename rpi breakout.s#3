@@ -4718,12 +4718,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <junction x="243.84" y="175.26"/>
 <label x="238.76" y="175.26" size="1.778" layer="95"/>
 </segment>
-<segment>
-<pinref part="J1" gate="G$1" pin="3.3V@17"/>
-<wire x1="243.84" y1="172.72" x2="241.3" y2="172.72" width="0.1524" layer="91"/>
-<junction x="243.84" y="172.72"/>
-<label x="238.76" y="172.72" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="GND" class="0">
 <segment>
