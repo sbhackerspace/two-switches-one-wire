@@ -30,7 +30,7 @@
       "Label" : "Everything Is On Fire",
       "Start" : 1.6,
       "Stop" : 3.2
-    }
+    },
    "Threshold" : {
       "Label" : "Now Its An Emergency",
       "Start" : 1.6,
@@ -53,6 +53,16 @@
     "Label" : "Trash Compactor",
     "On Label" : "SMASH!",
     "Off Label" : "shutdown"
+  },
+
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Fog Lights",
+    "On Label" : "Emit Fog",
+    "Off Label" : "Disable Fog"
+  },
 
   "Input" : {
     "Type" : "Digital",
@@ -88,6 +98,15 @@
     "Label" : "Air Supply",
     "On Label" : "Greatest Hits",
     "Off Label" : "Off"
+  },
+
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Eric-O-Matic",
+    "On Label" : "Fugue State",
+    "Off Label" : "Sleep"
   },
 
   },
@@ -139,4 +158,35 @@
     "Default Value" : 0,
     "Message" : "Extinguish Unnecessary Fires"
   }
+
+  },
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Yell At Ensign Mike"
+  }
+
+  },
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Blame Dan"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Engage Warp Mark 5"
+  }
+
 }
