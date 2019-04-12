@@ -33,8 +33,52 @@
     },
    "Threshold" : {
       "Label" : "Now Its An Emergency",
+      "Start" : 3.2,
+      "Stop" : 5
+    }
+
+ },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Ship Computer Personality",
+    "Threshold" : {
+      "Label" : "Helpful",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Snarky",
       "Start" : 1.6,
       "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "Homicidal",
+      "Start" : 3.2,
+      "Stop" : 5
+    }
+
+  },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "La Croix Flavor",
+    "Threshold" : {
+      "Label" : "Canned Near A Grapefruit Orchard",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Hint Of Hint Of Lime",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "Pamplemousse",
+      "Start" : 3.2,
+      "Stop" : 5
     }
 
   },
@@ -46,6 +90,7 @@
     "On Label" : "Greatest Hits",
     "Off Label" : "Off"
   },
+
   "Input" : {
     "Type" : "Digital",
     "Id" : 1,
@@ -69,8 +114,8 @@
     "Id" : 1,
     "PiSerial" : "00000000909428a3",
     "Label" : "BEES!",
-    "On Label" : "more",
-    "Off Label" : "less"
+    "On Label" : "More!",
+    "Off Label" : "Less!"
   },
 
   "Input" : {
@@ -187,6 +232,16 @@
     "Label" : "",
     "Default Value" : 0,
     "Message" : "Engage Warp Mark 5"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Honk The Space Horn"
   }
 
 }
