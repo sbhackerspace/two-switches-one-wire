@@ -33,7 +33,29 @@
     },
    "Threshold" : {
       "Label" : "Now Its An Emergency",
-      "Start" : 3.2,
+      "Start" : 3.3,
+      "Stop" : 5
+    }
+
+  },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Background Music",
+    "Threshold" : {
+      "Label" : "Foreboding",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Triumphant Crescendo",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "John Williams",
+      "Start" : 3.3,
       "Stop" : 5
     }
 
@@ -55,7 +77,7 @@
     },
    "Threshold" : {
       "Label" : "Homicidal",
-      "Start" : 3.2,
+      "Start" : 3.3,
       "Stop" : 5
     }
 
@@ -77,7 +99,117 @@
     },
    "Threshold" : {
       "Label" : "Pamplemousse",
-      "Start" : 3.2,
+      "Start" : 3.3,
+      "Stop" : 5
+    }
+
+  },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Captain's Style",
+    "Threshold" : {
+      "Label" : "Shatner",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Picard",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "Janeway",
+      "Start" : 3.3,
+      "Stop" : 5
+    }
+
+  },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Reactor Core Power",
+    "Threshold" : {
+      "Label" : "Maximum",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Overdrive",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "11",
+      "Start" : 3.3,
+      "Stop" : 5
+    }
+
+  },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Jedi Level",
+    "Threshold" : {
+      "Label" : "Padawan",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Apprentice",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "On The Council, But Not A Master",
+      "Start" : 3.3,
+      "Stop" : 5
+    }
+
+  },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Radiation Levels",
+    "Threshold" : {
+      "Label" : "Safe",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Dangerous",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "Chernobyl",
+      "Start" : 3.3,
+      "Stop" : 5
+    }
+
+  },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Evasive Maneuvers",
+    "Threshold" : {
+      "Label" : "Do A Barrel Roll",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Listing Lazily To The Left",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "Asteroid Field",
+      "Start" : 3.3,
       "Stop" : 5
     }
 
@@ -89,6 +221,16 @@
     "Label" : "Air Supply",
     "On Label" : "Greatest Hits",
     "Off Label" : "Off"
+  },
+
+    },
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Holodeck Simulation",
+    "On Label" : "Malfunctioning",
+    "Off Label" : "Disabled"
   },
 
   "Input" : {
@@ -135,6 +277,15 @@
     "On Label" : "Too Many",
     "Off Label" : "Not Enough"
   },
+
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Airspeed Velocity",
+    "On Label" : "European Swallow",
+    "Off Label" : "African Swallow"
+  },
   
   "Input" : {
     "Type" : "Digital",
@@ -152,6 +303,15 @@
     "Label" : "Eric-O-Matic",
     "On Label" : "Fugue State",
     "Off Label" : "Sleep"
+  },
+
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Massage Chair",
+    "On Label" : "Shiatsu",
+    "Off Label" : "Deep Knead"
   },
 
   },
@@ -242,6 +402,76 @@
     "Label" : "",
     "Default Value" : 0,
     "Message" : "Honk The Space Horn"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Disable Alarms"
+  }  
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Eject Crew"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Reboot Router"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Fire Phasers"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Refill Blinker Fluid"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Enable Tractor Beam"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Engage Cloaking Device"
   }
 
 }
