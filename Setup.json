@@ -129,4 +129,14 @@
     "Default Value" : 0,
     "Message" : "Launch Photon Torpedoes"
   }
+
+  },
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Extinguish Unnecessary Fires"
+  }
 }
