@@ -336,7 +336,15 @@
     "Off Label" : "Deep Knead"
   },
 
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Choocher",
+    "On Label" : "Skookum",
+    "Off Label" : "Not Teabag"
   },
+
   "Input" : {
     "Type" : "Momentary",
     "Id" : 2,
@@ -524,6 +532,26 @@
     "Label" : "",
     "Default Value" : 0,
     "Message" : "Deploy Red Shirts"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Activate Scanners"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Enfringe Copyright"
   }
 
 }
