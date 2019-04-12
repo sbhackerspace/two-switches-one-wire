@@ -1,0 +1,132 @@
+{
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Dongle",
+    "Threshold" : {
+      "Label" : "Dangle",
+      "Start" : 0.0,
+      "Stop" : 2.0
+    },
+    "Threshold" : {
+      "Label" : "Dungle",
+      "Start" : 2.0,
+      "Stop" : 5.0
+    }
+  
+  },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Everything Is Ok Alarm",
+    "Threshold" : {
+      "Label" : "Time To Panic",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Everything Is On Fire",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    }
+   "Threshold" : {
+      "Label" : "Now Its An Emergency",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    }
+
+  },
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Air Supply",
+    "On Label" : "Greatest Hits",
+    "Off Label" : "Off"
+  },
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Trash Compactor",
+    "On Label" : "SMASH!",
+    "Off Label" : "shutdown"
+
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "BEES!",
+    "On Label" : "more",
+    "Off Label" : "less"
+  },
+
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Turbo Encabulator",
+    "On Label" : "Activate Reciprocating Dingle Arm",
+    "Off Label" : "Damper Novertrunions"
+  },
+
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Gravity",
+    "On Label" : "Too Many",
+    "Off Label" : "Not Enough"
+  },
+  
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Air Supply",
+    "On Label" : "Greatest Hits",
+    "Off Label" : "Off"
+  },
+
+  },
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Call your Mother"
+  }
+
+  },
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Oh Bill"
+  }
+
+  },
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Clean Fish Tank"
+  }
+
+  },
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Launch Photon Torpedoes"
+  }
+}
