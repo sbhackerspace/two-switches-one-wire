@@ -108,6 +108,28 @@
     "Type" : "Analog",
     "Id" : 0,
     "PiSerial" : "00000000909428a3",
+    "Label" : "Screen Saver",
+    "Threshold" : {
+      "Label" : "Flying Toasters",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Family Photos",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "Windows Logo",
+      "Start" : 3.3,
+      "Stop" : 5
+    }
+
+  },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
     "Label" : "Captain's Style",
     "Threshold" : {
       "Label" : "Shatner",
@@ -472,6 +494,36 @@
     "Label" : "",
     "Default Value" : 0,
     "Message" : "Engage Cloaking Device"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Report Hull Breach"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Evacuate Jeffries Tubes"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Deploy Red Shirts"
   }
 
 }
