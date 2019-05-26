@@ -246,6 +246,35 @@
 <text x="93.218" y="19.05" size="1.27" layer="25" rot="R90">ADC1-16</text>
 <text x="65.024" y="76.454" size="1.27" layer="25" rot="R90">ADC20-29</text>
 <text x="29.21" y="51.054" size="1.27" layer="26" rot="MR180">ADC33-39</text>
+<text x="6.858" y="88.9" size="1.27" layer="25">DIO40</text>
+<text x="21.336" y="90.678" size="1.27" layer="25" rot="R90">DIO38</text>
+<text x="30.226" y="90.424" size="1.27" layer="25" rot="R90">DIO37</text>
+<text x="39.37" y="90.17" size="1.27" layer="25" rot="R90">DIO36</text>
+<text x="48.26" y="89.916" size="1.27" layer="25" rot="R90">DIO35</text>
+<text x="57.15" y="90.17" size="1.27" layer="25" rot="R90">DIO34</text>
+<text x="66.294" y="89.916" size="1.27" layer="25" rot="R90">DIO33</text>
+<text x="74.93" y="89.916" size="1.27" layer="25" rot="R90">DIO32</text>
+<text x="83.82" y="86.36" size="1.27" layer="25" rot="R90">DIO31</text>
+<text x="92.456" y="90.678" size="1.27" layer="25" rot="R90">DIO30</text>
+<text x="101.6" y="90.678" size="1.27" layer="25" rot="R90">DIO29</text>
+<text x="101.6" y="84.074" size="1.27" layer="25">DIO27</text>
+<text x="101.854" y="74.93" size="1.27" layer="25">DIO26</text>
+<text x="102.616" y="66.04" size="1.27" layer="25">DIO25</text>
+<text x="102.87" y="57.404" size="1.27" layer="25">DIO24</text>
+<text x="102.362" y="48.26" size="1.27" layer="25">DIO23</text>
+<text x="102.108" y="39.624" size="1.27" layer="25">DIO22</text>
+<text x="102.108" y="30.734" size="1.27" layer="25">DIO21</text>
+<text x="102.362" y="21.844" size="1.27" layer="25">DIO20</text>
+<text x="102.362" y="12.7" size="1.27" layer="25">DIO19</text>
+<text x="96.52" y="7.112" size="1.27" layer="25" rot="R90">DIO17</text>
+<text x="87.884" y="7.112" size="1.27" layer="25" rot="R90">DIO16</text>
+<text x="78.74" y="6.858" size="1.27" layer="25" rot="R90">DIO15</text>
+<text x="69.85" y="6.858" size="1.27" layer="25" rot="R90">DIO14</text>
+<text x="60.96" y="6.858" size="1.27" layer="25" rot="R90">DIO13</text>
+<text x="52.07" y="7.366" size="1.27" layer="25" rot="R90">DIO12</text>
+<text x="43.18" y="7.366" size="1.27" layer="25" rot="R90">DIO11</text>
+<text x="34.29" y="7.112" size="1.27" layer="25" rot="R90">DIO10</text>
+<text x="25.654" y="6.858" size="1.27" layer="25" rot="R90">DIO9</text>
 </plain>
 <libraries>
 <library name="micro-philips" urn="urn:adsk.eagle:library:290">

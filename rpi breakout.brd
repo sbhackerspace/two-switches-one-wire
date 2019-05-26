@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.3.0">
+<eagle version="9.2.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -198,7 +198,7 @@
 <text x="7.112" y="66.294" size="1.27" layer="25">5v</text>
 <text x="7.112" y="77.47" size="1.27" layer="25">5v</text>
 <text x="16.51" y="6.858" size="1.27" layer="25" rot="R90">5v</text>
-<text x="6.604" y="90.932" size="1.27" layer="25">ADC23</text>
+<text x="6.604" y="90.932" size="1.27" layer="25">ADC32</text>
 <text x="14.732" y="90.424" size="1.27" layer="25" rot="R90">ADC31</text>
 <text x="23.368" y="90.17" size="1.27" layer="25" rot="R90">ADC30</text>
 <text x="32.258" y="89.916" size="1.27" layer="25" rot="R90">ADC29</text>
@@ -228,14 +228,14 @@
 <text x="40.132" y="15.24" size="1.27" layer="25" rot="R270">ADC3</text>
 <text x="31.242" y="11.938" size="1.27" layer="25" rot="R270">ADC2</text>
 <text x="22.352" y="12.192" size="1.27" layer="25" rot="R270">ADC1</text>
-<text x="12.954" y="12.446" size="1.27" layer="25" rot="R270">ADC29</text>
-<text x="6.35" y="10.922" size="1.27" layer="25">ADC29</text>
-<text x="6.858" y="22.352" size="1.27" layer="25">ADC29</text>
-<text x="7.112" y="34.036" size="1.27" layer="25">ADC29</text>
-<text x="7.112" y="45.466" size="1.27" layer="25">ADC29</text>
-<text x="7.112" y="56.896" size="1.27" layer="25">ADC29</text>
-<text x="7.112" y="68.326" size="1.27" layer="25">ADC29</text>
-<text x="7.112" y="79.756" size="1.27" layer="25">ADC29</text>
+<text x="12.954" y="12.446" size="1.27" layer="25" rot="R270">ADC40</text>
+<text x="6.35" y="10.922" size="1.27" layer="25">ADC39</text>
+<text x="6.858" y="22.352" size="1.27" layer="25">ADC38</text>
+<text x="7.112" y="34.036" size="1.27" layer="25">ADC37</text>
+<text x="7.112" y="45.466" size="1.27" layer="25">ADC36</text>
+<text x="7.112" y="56.896" size="1.27" layer="25">ADC35</text>
+<text x="7.112" y="68.326" size="1.27" layer="25">ADC34</text>
+<text x="7.112" y="79.756" size="1.27" layer="25">ADC33</text>
 <text x="6.858" y="13.208" size="1.27" layer="25">DIO7</text>
 <text x="7.112" y="24.638" size="1.27" layer="25">DIO6</text>
 <text x="7.366" y="36.068" size="1.27" layer="25">DIO5</text>
@@ -1003,7 +1003,7 @@ design rules under a new name.</description>
 <param name="TopRouterVariant" value="1"/>
 <param name="tpViaShape" value="round"/>
 <param name="PrefDir.1" value="a"/>
-<param name="PrefDir.2" value="a"/>
+<param name="PrefDir.2" value="0"/>
 <param name="PrefDir.3" value="0"/>
 <param name="PrefDir.4" value="0"/>
 <param name="PrefDir.5" value="0"/>
@@ -1016,7 +1016,7 @@ design rules under a new name.</description>
 <param name="PrefDir.12" value="0"/>
 <param name="PrefDir.13" value="0"/>
 <param name="PrefDir.14" value="0"/>
-<param name="PrefDir.15" value="a"/>
+<param name="PrefDir.15" value="0"/>
 <param name="PrefDir.16" value="a"/>
 <param name="cfVia" value="8"/>
 <param name="cfNonPref" value="5"/>

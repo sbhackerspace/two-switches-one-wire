@@ -150,6 +150,102 @@
 <wire x1="113.97" y1="0" x2="113.97" y2="102.86" width="0" layer="20"/>
 <wire x1="113.97" y1="102.86" x2="0" y2="102.86" width="0" layer="20"/>
 <wire x1="0" y1="102.86" x2="0" y2="0" width="0" layer="20"/>
+<text x="6.604" y="15.24" size="1.27" layer="25">GND</text>
+<text x="10.414" y="6.604" size="1.27" layer="25" rot="R90">GND</text>
+<text x="10.668" y="27.686" size="1.27" layer="25" rot="R180">GND</text>
+<text x="10.414" y="39.116" size="1.27" layer="25" rot="R180">GND</text>
+<text x="10.668" y="50.546" size="1.27" layer="25" rot="R180">GND</text>
+<text x="10.668" y="61.976" size="1.27" layer="25" rot="R180">GND</text>
+<text x="10.414" y="73.406" size="1.27" layer="25" rot="R180">GND</text>
+<text x="10.414" y="84.836" size="1.27" layer="25" rot="R180">GND</text>
+<text x="10.668" y="93.98" size="1.27" layer="25" rot="R180">GND</text>
+<text x="15.494" y="95.504" size="1.27" layer="25" rot="R270">GND</text>
+<text x="24.384" y="95.504" size="1.27" layer="25" rot="R270">GND</text>
+<text x="33.274" y="95.504" size="1.27" layer="25" rot="R270">GND</text>
+<text x="42.164" y="95.504" size="1.27" layer="25" rot="R270">GND</text>
+<text x="51.308" y="94.742" size="1.27" layer="25" rot="R270">GND</text>
+<text x="60.198" y="94.742" size="1.27" layer="25" rot="R270">GND</text>
+<text x="68.834" y="94.996" size="1.27" layer="25" rot="R270">GND</text>
+<text x="77.978" y="95.25" size="1.27" layer="25" rot="R270">GND</text>
+<text x="86.614" y="94.996" size="1.27" layer="25" rot="R270">GND</text>
+<text x="95.758" y="94.742" size="1.27" layer="25" rot="R270">GND</text>
+<text x="104.394" y="94.996" size="1.27" layer="25" rot="R270">GND</text>
+<text x="101.854" y="88.646" size="1.27" layer="25">GND</text>
+<text x="102.362" y="79.756" size="1.27" layer="25">GND</text>
+<text x="102.616" y="70.866" size="1.27" layer="25">GND</text>
+<text x="103.124" y="62.23" size="1.27" layer="25">GND</text>
+<text x="103.632" y="53.34" size="1.27" layer="25">GND</text>
+<text x="103.378" y="44.196" size="1.27" layer="25">GND</text>
+<text x="103.632" y="35.56" size="1.27" layer="25">GND</text>
+<text x="103.632" y="26.67" size="1.27" layer="25">GND</text>
+<text x="103.632" y="17.78" size="1.27" layer="25">GND</text>
+<text x="103.632" y="8.89" size="1.27" layer="25">GND</text>
+<text x="101.346" y="6.858" size="1.27" layer="25" rot="R90">GND</text>
+<text x="92.456" y="7.112" size="1.27" layer="25" rot="R90">GND</text>
+<text x="83.82" y="6.858" size="1.27" layer="25" rot="R90">GND</text>
+<text x="74.676" y="7.112" size="1.27" layer="25" rot="R90">GND</text>
+<text x="65.786" y="6.858" size="1.27" layer="25" rot="R90">GND</text>
+<text x="56.896" y="6.858" size="1.27" layer="25" rot="R90">GND</text>
+<text x="48.006" y="7.366" size="1.27" layer="25" rot="R90">GND</text>
+<text x="39.116" y="7.62" size="1.27" layer="25" rot="R90">GND</text>
+<text x="30.48" y="7.62" size="1.27" layer="25" rot="R90">GND</text>
+<text x="21.336" y="7.112" size="1.27" layer="25" rot="R90">GND</text>
+<text x="6.604" y="9.144" size="1.27" layer="25">5v</text>
+<text x="6.858" y="20.574" size="1.27" layer="25">5v</text>
+<text x="7.112" y="32.004" size="1.27" layer="25">5v</text>
+<text x="6.858" y="43.18" size="1.27" layer="25">5v</text>
+<text x="7.112" y="54.864" size="1.27" layer="25">5v</text>
+<text x="7.112" y="66.294" size="1.27" layer="25">5v</text>
+<text x="7.112" y="77.47" size="1.27" layer="25">5v</text>
+<text x="16.51" y="6.858" size="1.27" layer="25" rot="R90">5v</text>
+<text x="6.604" y="90.932" size="1.27" layer="25">ADC23</text>
+<text x="14.732" y="90.424" size="1.27" layer="25" rot="R90">ADC31</text>
+<text x="23.368" y="90.17" size="1.27" layer="25" rot="R90">ADC30</text>
+<text x="32.258" y="89.916" size="1.27" layer="25" rot="R90">ADC29</text>
+<text x="41.402" y="89.662" size="1.27" layer="25" rot="R90">ADC28</text>
+<text x="50.292" y="89.408" size="1.27" layer="25" rot="R90">ADC27</text>
+<text x="58.928" y="89.408" size="1.27" layer="25" rot="R90">ADC26</text>
+<text x="68.072" y="89.408" size="1.27" layer="25" rot="R90">ADC25</text>
+<text x="76.962" y="89.408" size="1.27" layer="25" rot="R90">ADC24</text>
+<text x="85.598" y="89.662" size="1.27" layer="25" rot="R90">ADC23</text>
+<text x="94.742" y="89.916" size="1.27" layer="25" rot="R90">ADC22</text>
+<text x="103.378" y="90.424" size="1.27" layer="25" rot="R90">ADC21</text>
+<text x="106.68" y="83.058" size="1.27" layer="25" rot="R180">ADC19</text>
+<text x="106.68" y="74.168" size="1.27" layer="25" rot="R180">ADC18</text>
+<text x="107.188" y="65.024" size="1.27" layer="25" rot="R180">ADC17</text>
+<text x="107.442" y="56.388" size="1.27" layer="25" rot="R180">ADC16</text>
+<text x="107.442" y="47.244" size="1.27" layer="25" rot="R180">ADC15</text>
+<text x="107.188" y="38.608" size="1.27" layer="25" rot="R180">ADC14</text>
+<text x="107.188" y="29.718" size="1.27" layer="25" rot="R180">ADC13</text>
+<text x="107.442" y="20.574" size="1.27" layer="25" rot="R180">ADC12</text>
+<text x="107.696" y="11.938" size="1.27" layer="25" rot="R180">ADC11</text>
+<text x="93.218" y="12.192" size="1.27" layer="25" rot="R270">ADC9</text>
+<text x="84.582" y="12.446" size="1.27" layer="25" rot="R270">ADC8</text>
+<text x="75.692" y="12.446" size="1.27" layer="25" rot="R270">ADC7</text>
+<text x="66.802" y="12.192" size="1.27" layer="25" rot="R270">ADC6</text>
+<text x="57.912" y="12.192" size="1.27" layer="25" rot="R270">ADC5</text>
+<text x="49.022" y="12.192" size="1.27" layer="25" rot="R270">ADC4</text>
+<text x="40.132" y="15.24" size="1.27" layer="25" rot="R270">ADC3</text>
+<text x="31.242" y="11.938" size="1.27" layer="25" rot="R270">ADC2</text>
+<text x="22.352" y="12.192" size="1.27" layer="25" rot="R270">ADC1</text>
+<text x="12.954" y="12.446" size="1.27" layer="25" rot="R270">ADC29</text>
+<text x="6.35" y="10.922" size="1.27" layer="25">ADC29</text>
+<text x="6.858" y="22.352" size="1.27" layer="25">ADC29</text>
+<text x="7.112" y="34.036" size="1.27" layer="25">ADC29</text>
+<text x="7.112" y="45.466" size="1.27" layer="25">ADC29</text>
+<text x="7.112" y="56.896" size="1.27" layer="25">ADC29</text>
+<text x="7.112" y="68.326" size="1.27" layer="25">ADC29</text>
+<text x="7.112" y="79.756" size="1.27" layer="25">ADC29</text>
+<text x="6.858" y="13.208" size="1.27" layer="25">DIO7</text>
+<text x="7.112" y="24.638" size="1.27" layer="25">DIO6</text>
+<text x="7.366" y="36.068" size="1.27" layer="25">DIO5</text>
+<text x="7.366" y="47.498" size="1.27" layer="25">DIO4</text>
+<text x="7.366" y="58.928" size="1.27" layer="25">DIO3</text>
+<text x="7.112" y="70.358" size="1.27" layer="25">DIO2</text>
+<text x="7.112" y="81.788" size="1.27" layer="25">DIO1</text>
+<text x="93.218" y="19.05" size="1.27" layer="25" rot="R90">ADC1-16</text>
+<text x="65.024" y="76.454" size="1.27" layer="25" rot="R90">ADC20-29</text>
+<text x="29.21" y="51.054" size="1.27" layer="26" rot="MR180">ADC33-39</text>
 </plain>
 <libraries>
 <library name="micro-philips" urn="urn:adsk.eagle:library:290">
@@ -970,7 +1066,7 @@ design rules under a new name.</description>
 <element name="IC1" library="micro-philips" library_urn="urn:adsk.eagle:library:290" package="TSSOP56-6" package3d_urn="urn:adsk.eagle:package:20197/1" value="PCA9505" x="54.61" y="49.53" smashed="yes">
 <attribute name="MF" value="" x="105.41" y="44.45" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="PCA9505DGG,118" x="105.41" y="44.45" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="46.99" y="46.99" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="47.244" y="48.768" size="1.27" layer="25" rot="R90"/>
 <attribute name="OC_FARNELL" value="unknown" x="105.41" y="44.45" size="1.778" layer="27" display="off"/>
 <attribute name="OC_NEWARK" value="70R6450" x="105.41" y="44.45" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="50.165" y="48.895" size="1.27" layer="27"/>
@@ -1239,7 +1335,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="62.7903" y="83.4644" size="0.4" layer="25" rot="R270"/>
 <attribute name="PACKAGE" value="QSOP-24 Maxim Integrated" x="53.34" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PRICE" value="None" x="53.34" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="54.0497" y="83.4644" size="0.4" layer="27" rot="R270" align="top-left"/>
+<attribute name="VALUE" x="53.5417" y="83.4644" size="0.4" layer="27" rot="R270" align="top-left"/>
 </element>
 <element name="U3" library="MAX11642EEG" package="21-0055H_24" value="MAX11642EEG" x="33.02" y="57.15" smashed="yes" rot="MR180">
 <attribute name="AVAILABILITY" value="Unavailable" x="33.02" y="57.15" size="1.778" layer="28" rot="MR180" display="off"/>
@@ -1252,16 +1348,13 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="29.5656" y="61.5203" size="0.4" layer="28" rot="MR180" align="top-left"/>
 </element>
 <element name="JP1" library="SparkFun-Jumpers" library_urn="urn:adsk.eagle:library:528" package="SMT-JUMPER_3_1-NC_TRACE_NO-SILK" package3d_urn="urn:adsk.eagle:package:39287/1" value="JUMPER-SMT_3_1-NC_TRACE_NO-SILK" x="63.754" y="41.402" smashed="yes" rot="R180">
-<attribute name="NAME" x="63.754" y="40.259" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
-<attribute name="VALUE" x="63.754" y="42.545" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
+<attribute name="NAME" x="63.754" y="39.497" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 </element>
 <element name="JP2" library="SparkFun-Jumpers" library_urn="urn:adsk.eagle:library:528" package="SMT-JUMPER_3_1-NC_TRACE_NO-SILK" package3d_urn="urn:adsk.eagle:package:39287/1" value="JUMPER-SMT_3_1-NC_TRACE_NO-SILK" x="64.008" y="55.626" smashed="yes" rot="R180">
 <attribute name="NAME" x="64.008" y="54.483" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
-<attribute name="VALUE" x="64.008" y="56.769" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
 <element name="JP3" library="SparkFun-Jumpers" library_urn="urn:adsk.eagle:library:528" package="SMT-JUMPER_3_1-NC_TRACE_NO-SILK" package3d_urn="urn:adsk.eagle:package:39287/1" value="JUMPER-SMT_3_1-NC_TRACE_NO-SILK" x="63.754" y="59.69" smashed="yes" rot="R180">
 <attribute name="NAME" x="63.754" y="58.547" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
-<attribute name="VALUE" x="63.754" y="60.833" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
 <element name="C1" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0805" package3d_urn="urn:adsk.eagle:package:37429/1" value="1.0uF" x="54.864" y="73.406" smashed="yes">
 <attribute name="NAME" x="54.864" y="74.295" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
@@ -1289,12 +1382,10 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="44.704" y="48.895" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
 <element name="JP4" library="SparkFun-Jumpers" library_urn="urn:adsk.eagle:library:528" package="SMT-JUMPER_3_1-NC_TRACE_NO-SILK" package3d_urn="urn:adsk.eagle:package:39287/1" value="JUMPER-SMT_3_1-NC_TRACE_NO-SILK" x="40.894" y="51.308" smashed="yes" rot="R180">
-<attribute name="NAME" x="40.894" y="50.165" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
-<attribute name="VALUE" x="40.894" y="52.451" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
+<attribute name="NAME" x="40.894" y="53.213" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 </element>
 <element name="JP5" library="SparkFun-Jumpers" library_urn="urn:adsk.eagle:library:528" package="SMT-JUMPER_3_1-NC_TRACE_NO-SILK" package3d_urn="urn:adsk.eagle:package:39287/1" value="JUMPER-SMT_3_1-NC_TRACE_NO-SILK" x="40.894" y="48.768" smashed="yes">
-<attribute name="NAME" x="40.894" y="49.911" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="VALUE" x="40.894" y="47.625" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
+<attribute name="NAME" x="40.894" y="46.863" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="R3" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="0805" package3d_urn="urn:adsk.eagle:package:39651/1" value=" " x="63.246" y="65.786" smashed="yes" rot="MR0">
 <attribute name="NAME" x="63.246" y="66.675" size="0.6096" layer="26" font="vector" ratio="20" rot="MR0" align="bottom-center"/>
