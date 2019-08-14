@@ -11,7 +11,7 @@
     },
     "Threshold": {
       "Label": "Dungle",
-      "Start": 2.0,
+      "Start": 2.1,
       "Stop": 5.0
     }
   },
@@ -412,14 +412,6 @@
     "Type": "Digital",
     "Id": 1,
     "PiSerial": "00000000909428a3",
-    "Label": "Air Supply",
-    "On Label": "Greatest Hits",
-    "Off Label": "Off"
-  },
-  "Input": {
-    "Type": "Digital",
-    "Id": 1,
-    "PiSerial": "00000000909428a3",
     "Label": "Eric-O-Matic",
     "On Label": "Fugue State",
     "Off Label": "Sleep"
@@ -502,7 +494,7 @@
     "PiSerial": "00000000909428a3",
     "Label": "",
     "Default Value": 0,
-    "Message": "Engage Warp Mark 5"
+    "Message": "Engage Warp Factor 5"
   },
   "Input": {
     "Type": "Momentary",
@@ -711,13 +703,5 @@
     "Label": "",
     "Default Value": 0,
     "Message": "Generate T.P.S. Report"
-  },
-  "Input": {
-    "Type": "Momentary",
-    "Id": 2,
-    "PiSerial": "00000000909428a3",
-    "Label": "",
-    "Default Value": 0,
-    "Message": "Bop It©"
   }
 }
