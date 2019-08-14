@@ -1,834 +1,723 @@
 {
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Dongle",
-    "Threshold" : {
-      "Label" : "Dangle",
-      "Start" : 0.0,
-      "Stop" : 2.0
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Dongle",
+    "Threshold": {
+      "Label": "Dangle",
+      "Start": 0.0,
+      "Stop": 2.0
     },
-    "Threshold" : {
-      "Label" : "Dungle",
-      "Start" : 2.0,
-      "Stop" : 5.0
+    "Threshold": {
+      "Label": "Dungle",
+      "Start": 2.0,
+      "Stop": 5.0
     }
-  
   },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Everything Is Ok Alarm",
-    "Threshold" : {
-      "Label" : "Time To Panic",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Everything Is Ok Alarm",
+    "Threshold": {
+      "Label": "Time To Panic",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Everything Is On Fire",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Everything Is On Fire",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "Now Its An Emergency",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "Now Its An Emergency",
+      "Start": 3.3,
+      "Stop": 5
     }
-
-      },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Units",
-    "Threshold" : {
-      "Label" : "Imperial",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  },
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Units",
+    "Threshold": {
+      "Label": "Imperial",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Metric",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Metric",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "Mixed",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "Mixed",
+      "Start": 3.3,
+      "Stop": 5
     }
-    
-      },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Time Travel Rules",
-    "Threshold" : {
-      "Label" : "Back To The Future",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  },
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Time Travel Rules",
+    "Threshold": {
+      "Label": "Back To The Future",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Terminator",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Terminator",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "Bill And Ted's",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "Bill And Ted's",
+      "Start": 3.3,
+      "Stop": 5
     }
-    
-      },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "System Error",
-    "Threshold" : {
-      "Label" : "P.E.B.K.A.C.",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  },
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "System Error",
+    "Threshold": {
+      "Label": "P.E.B.K.A.C.",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "ID-10/T",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "ID-10/T",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "Layer 8",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "Layer 8",
+      "Start": 3.3,
+      "Stop": 5
     }
-    
   },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Background Music",
-    "Threshold" : {
-      "Label" : "Foreboding",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Background Music",
+    "Threshold": {
+      "Label": "Foreboding",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Triumphant Crescendo",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Triumphant Crescendo",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "John Williams",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "John Williams",
+      "Start": 3.3,
+      "Stop": 5
     }
-
- },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Ship Computer Personality",
-    "Threshold" : {
-      "Label" : "Helpful",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  },
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Ship Computer Personality",
+    "Threshold": {
+      "Label": "Helpful",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Snarky",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Snarky",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "Homicidal",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "Homicidal",
+      "Start": 3.3,
+      "Stop": 5
     }
-
   },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "La Croix Flavor",
-    "Threshold" : {
-      "Label" : "Canned Near A Grapefruit Orchard",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "La Croix Flavor",
+    "Threshold": {
+      "Label": "Canned Near A Grapefruit Orchard",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Hint Of Hint Of Lime",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Hint Of Hint Of Lime",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "Pamplemousse",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "Pamplemousse",
+      "Start": 3.3,
+      "Stop": 5
     }
-
   },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Screen Saver",
-    "Threshold" : {
-      "Label" : "Flying Toasters",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Screen Saver",
+    "Threshold": {
+      "Label": "Flying Toasters",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Family Photos",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Family Photos",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "Windows Logo",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "Windows Logo",
+      "Start": 3.3,
+      "Stop": 5
     }
-
   },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Captain's Style",
-    "Threshold" : {
-      "Label" : "Shatner",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Captain's Style",
+    "Threshold": {
+      "Label": "Shatner",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Picard",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Picard",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "Janeway",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "Janeway",
+      "Start": 3.3,
+      "Stop": 5
     }
-
   },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Reactor Core Power",
-    "Threshold" : {
-      "Label" : "Maximum",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Reactor Core Power",
+    "Threshold": {
+      "Label": "Maximum",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Overdrive",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Overdrive",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "11",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "11",
+      "Start": 3.3,
+      "Stop": 5
     }
-
   },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Jedi Level",
-    "Threshold" : {
-      "Label" : "Padawan",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Jedi Level",
+    "Threshold": {
+      "Label": "Padawan",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Apprentice",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Apprentice",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "On The Council, But Not A Master",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "On The Council, But Not A Master",
+      "Start": 3.3,
+      "Stop": 5
     }
-
   },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Radiation Levels",
-    "Threshold" : {
-      "Label" : "Safe",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Radiation Levels",
+    "Threshold": {
+      "Label": "Safe",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Dangerous",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Dangerous",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "Chernobyl",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "Chernobyl",
+      "Start": 3.3,
+      "Stop": 5
     }
-
   },
-  "Input" : {
-    "Type" : "Analog",
-    "Id" : 0,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Evasive Maneuvers",
-    "Threshold" : {
-      "Label" : "Do A Barrel Roll",
-      "Start" : 0.0,
-      "Stop" : 1.5
+  "Input": {
+    "Type": "Analog",
+    "Id": 0,
+    "PiSerial": "00000000909428a3",
+    "Label": "Evasive Maneuvers",
+    "Threshold": {
+      "Label": "Do A Barrel Roll",
+      "Start": 0.0,
+      "Stop": 1.5
     },
-    "Threshold" : {
-      "Label" : "Listing Lazily To The Left",
-      "Start" : 1.6,
-      "Stop" : 3.2
+    "Threshold": {
+      "Label": "Listing Lazily To The Left",
+      "Start": 1.6,
+      "Stop": 3.2
     },
-   "Threshold" : {
-      "Label" : "Asteroid Field",
-      "Start" : 3.3,
-      "Stop" : 5
+    "Threshold": {
+      "Label": "Asteroid Field",
+      "Start": 3.3,
+      "Stop": 5
     }
-
   },
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Air Supply",
-    "On Label" : "Greatest Hits",
-    "Off Label" : "Off"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Air Supply",
+    "On Label": "Greatest Hits",
+    "Off Label": "Off"
   },
-
-"Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Holodeck Simulation",
-    "On Label" : "Malfunctioning",
-    "Off Label" : "Disabled"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Holodeck Simulation",
+    "On Label": "Malfunctioning",
+    "Off Label": "Disabled"
   },
-
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Landing Gear",
-    "On Label" : "Deployed",
-    "Off Label" : "Stowed"
-  
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Landing Gear",
+    "On Label": "Deployed",
+    "Off Label": "Stowed"
   },
-  
-    "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Stargate",
-    "On Label" : "Atlantis",
-    "Off Label" : "SG1"
-  
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Stargate",
+    "On Label": "Atlantis",
+    "Off Label": "SG1"
   },
-
-    "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Richard Dean Anderson",
-    "On Label" : "McGuyver",
-    "Off Label" : "Jack O'Neill"
-  
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Richard Dean Anderson",
+    "On Label": "McGuyver",
+    "Off Label": "Jack O'Neill"
   },
-  
-    "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Data Buffer",
-    "On Label" : "Garbage In Garbage Out",
-    "Off Label" : "First In First Out"
-  
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Data Buffer",
+    "On Label": "Garbage In Garbage Out",
+    "Off Label": "First In First Out"
   },
-  
-    "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Lighting
-    "On Label" : "Emergency",
-    "Off Label" : "Mood"
-  
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Lighting",
+    "On Label": "Emergency",
+    "Off Label": "Mood"
   },
-  
-    "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Android Model",
-    "On Label" : "Nexus 6",
-    "Off Label" : "Hyperdyne Systems 120-A/2"
-  
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Android Model",
+    "On Label": "Nexus 6",
+    "Off Label": "Hyperdyne Systems 120-A/2"
   },
-  
-    "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Light Sails",
-    "On Label" : "Deployed",
-    "Off Label" : "Stowed"
-  
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Light Sails",
+    "On Label": "Deployed",
+    "Off Label": "Stowed"
   },
-  
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Trash Compactor",
-    "On Label" : "SMASH!",
-    "Off Label" : "shutdown"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Trash Compactor",
+    "On Label": "SMASH!",
+    "Off Label": "shutdown"
   },
-
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Fog Lights",
-    "On Label" : "Emit Fog",
-    "Off Label" : "Disable Fog"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Fog Lights",
+    "On Label": "Emit Fog",
+    "Off Label": "Disable Fog"
   },
-
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "BEES!",
-    "On Label" : "More!",
-    "Off Label" : "Less!"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "BEES!",
+    "On Label": "More!",
+    "Off Label": "Less!"
   },
-
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Turbo Encabulator",
-    "On Label" : "Activate Reciprocating Dingle Arm",
-    "Off Label" : "Damper Novertrunions"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Turbo Encabulator",
+    "On Label": "Activate Reciprocating Dingle Arm",
+    "Off Label": "Damper Novertrunions"
   },
-
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Gravity",
-    "On Label" : "Too Many",
-    "Off Label" : "Not Enough"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Gravity",
+    "On Label": "Too Many",
+    "Off Label": "Not Enough"
   },
-
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Airspeed Velocity",
-    "On Label" : "European Swallow",
-    "Off Label" : "African Swallow"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Airspeed Velocity",
+    "On Label": "European Swallow",
+    "Off Label": "African Swallow"
   },
-  
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Air Supply",
-    "On Label" : "Greatest Hits",
-    "Off Label" : "Off"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Air Supply",
+    "On Label": "Greatest Hits",
+    "Off Label": "Off"
   },
-
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Eric-O-Matic",
-    "On Label" : "Fugue State",
-    "Off Label" : "Sleep"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Eric-O-Matic",
+    "On Label": "Fugue State",
+    "Off Label": "Sleep"
   },
-
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Massage Chair",
-    "On Label" : "Shiatsu",
-    "Off Label" : "Deep Knead"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Massage Chair",
+    "On Label": "Shiatsu",
+    "Off Label": "Deep Knead"
   },
-
-  "Input" : {
-    "Type" : "Digital",
-    "Id" : 1,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "Choocher",
-    "On Label" : "Skookum",
-    "Off Label" : "Not Teabag"
+  "Input": {
+    "Type": "Digital",
+    "Id": 1,
+    "PiSerial": "00000000909428a3",
+    "Label": "Choocher",
+    "On Label": "Skookum",
+    "Off Label": "Not Teabag"
   },
-
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Call your Mother"
-  }
-
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Call your Mother"
   },
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Oh Bill"
-  }
-
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Oh Bill"
   },
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Clean Fish Tank"
-  }
-
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Clean Fish Tank"
   },
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Launch Photon Torpedoes"
-  }
-
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Launch Photon Torpedoes"
   },
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Extinguish Unnecessary Fires"
-  }
-
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Extinguish Unnecessary Fires"
   },
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Yell At Ensign Mike"
-  }
-
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Yell At Ensign Mike"
   },
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Blame Dan"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Engage Warp Mark 5"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Honk The Space Horn"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Disable Alarms"
-  }  
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Eject Crew"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Reboot Router"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Fire Phasers"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Refill Blinker Fluid"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Enable Tractor Beam"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Engage Cloaking Device"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Report Hull Breach"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Evacuate Jeffries Tubes"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Deploy Red Shirts"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Activate Scanners"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Enfringe Copyright"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Regret Decisions"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Mine Spice"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Violate Prime Directive"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Stabilize Wormhole"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Vector Thrust"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Ignore Physics"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Deactivate Ship AI"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Collect Data"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Engage Universal Translator"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Insert Coin"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Send The Away Team"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Bop It©"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Generate T.P.S. Report"
-  }
-
-},
-  "Input" : {
-    "Type" : "Momentary",
-    "Id" : 2,
-    "PiSerial" : "00000000909428a3",
-    "Label" : "",
-    "Default Value" : 0,
-    "Message" : "Bop It©"
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Blame Dan"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Engage Warp Mark 5"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Honk The Space Horn"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Disable Alarms"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Eject Crew"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Reboot Router"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Fire Phasers"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Refill Blinker Fluid"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Enable Tractor Beam"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Engage Cloaking Device"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Report Hull Breach"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Evacuate Jeffries Tubes"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Deploy Red Shirts"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Activate Scanners"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Enfringe Copyright"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Regret Decisions"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Mine Spice"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Violate Prime Directive"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Stabilize Wormhole"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Vector Thrust"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Ignore Physics"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Deactivate Ship AI"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Collect Data"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Engage Universal Translator"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Insert Coin"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Send The Away Team"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Bop It©"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Generate T.P.S. Report"
+  },
+  "Input": {
+    "Type": "Momentary",
+    "Id": 2,
+    "PiSerial": "00000000909428a3",
+    "Label": "",
+    "Default Value": 0,
+    "Message": "Bop It©"
   }
 }
-
-
-
