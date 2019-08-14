@@ -37,6 +37,72 @@
       "Stop" : 5
     }
 
+      },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Units",
+    "Threshold" : {
+      "Label" : "Imperial",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Metric",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "Mixed",
+      "Start" : 3.3,
+      "Stop" : 5
+    }
+    
+      },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Time Travel Rules",
+    "Threshold" : {
+      "Label" : "Back To The Future",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "Terminator",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "Bill And Ted's",
+      "Start" : 3.3,
+      "Stop" : 5
+    }
+    
+      },
+  "Input" : {
+    "Type" : "Analog",
+    "Id" : 0,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "System Error",
+    "Threshold" : {
+      "Label" : "P.E.B.K.A.C.",
+      "Start" : 0.0,
+      "Stop" : 1.5
+    },
+    "Threshold" : {
+      "Label" : "ID-10/T",
+      "Start" : 1.6,
+      "Stop" : 3.2
+    },
+   "Threshold" : {
+      "Label" : "Layer 8",
+      "Start" : 3.3,
+      "Stop" : 5
+    }
+    
   },
   "Input" : {
     "Type" : "Analog",
@@ -245,8 +311,7 @@
     "Off Label" : "Off"
   },
 
-    },
-  "Input" : {
+"Input" : {
     "Type" : "Digital",
     "Id" : 1,
     "PiSerial" : "00000000909428a3",
@@ -255,6 +320,76 @@
     "Off Label" : "Disabled"
   },
 
+  "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Landing Gear",
+    "On Label" : "Deployed",
+    "Off Label" : "Stowed"
+  
+  },
+  
+    "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Stargate",
+    "On Label" : "Atlantis",
+    "Off Label" : "SG1"
+  
+  },
+
+    "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Richard Dean Anderson",
+    "On Label" : "McGuyver",
+    "Off Label" : "Jack O'Neill"
+  
+  },
+  
+    "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Data Buffer",
+    "On Label" : "Garbage In Garbage Out",
+    "Off Label" : "First In First Out"
+  
+  },
+  
+    "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Lighting
+    "On Label" : "Emergency",
+    "Off Label" : "Mood"
+  
+  },
+  
+    "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Android Model",
+    "On Label" : "Nexus 6",
+    "Off Label" : "Hyperdyne Systems 120-A/2"
+  
+  },
+  
+    "Input" : {
+    "Type" : "Digital",
+    "Id" : 1,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "Light Sails",
+    "On Label" : "Deployed",
+    "Off Label" : "Stowed"
+  
+  },
+  
   "Input" : {
     "Type" : "Digital",
     "Id" : 1,
@@ -554,4 +689,146 @@
     "Message" : "Enfringe Copyright"
   }
 
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Regret Decisions"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Mine Spice"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Violate Prime Directive"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Stabilize Wormhole"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Vector Thrust"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Ignore Physics"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Deactivate Ship AI"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Collect Data"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Engage Universal Translator"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Insert Coin"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Send The Away Team"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Bop It©"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Generate T.P.S. Report"
+  }
+
+},
+  "Input" : {
+    "Type" : "Momentary",
+    "Id" : 2,
+    "PiSerial" : "00000000909428a3",
+    "Label" : "",
+    "Default Value" : 0,
+    "Message" : "Bop It©"
+  }
 }
+
+
+
