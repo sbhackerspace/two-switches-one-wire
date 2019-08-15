@@ -318,6 +318,98 @@
             ]
         },
         {
+            "Type": "Analog",
+            "Id": 0,
+            "PiSerial": "00000000909428a3",
+            "Label": "Now This Is",
+            "Thresholds": [
+                {
+                    "Label": "Podracing",
+                    "Start": 0.0,
+                    "Stop": 1.5
+                },
+                {
+                    "Label": "An Avengers Level Threat",
+                    "Start": 1.6,
+                    "Stop": 3.2
+                },
+                {
+                    "Label": "A Story All About How",
+                    "Start": 3.3,
+                    "Stop": 5
+                }
+            ]
+        },
+        {
+            "Type": "Analog",
+            "Id": 0,
+            "PiSerial": "00000000909428a3",
+            "Label": "The Captain's",
+            "Thresholds": [
+                {
+                    "Label": "Log",
+                    "Start": 0.0,
+                    "Stop": 1.5
+                },
+                {
+                    "Label": "Chair",
+                    "Start": 1.6,
+                    "Stop": 3.2
+                },
+                {
+                    "Label": "Quarters",
+                    "Start": 3.3,
+                    "Stop": 5
+                }
+            ]
+        },
+        {
+            "Type": "Analog",
+            "Id": 0,
+            "PiSerial": "00000000909428a3",
+            "Label": "I'm a Doctor, Not A",
+            "Thresholds": [
+                {
+                    "Label": "Doorstop",
+                    "Start": 0.0,
+                    "Stop": 1.5
+                },
+                {
+                    "Label": "Tour Guide",
+                    "Start": 1.6,
+                    "Stop": 3.2
+                },
+                {
+                    "Label": "Nightlight",
+                    "Start": 3.3,
+                    "Stop": 5
+                }
+            ]
+        },
+        {
+            "Type": "Analog",
+            "Id": 0,
+            "PiSerial": "00000000909428a3",
+            "Label": "Set Phasers to",
+            "Thresholds": [
+                {
+                    "Label": "Stun",
+                    "Start": 0.0,
+                    "Stop": 1.5
+                },
+                {
+                    "Label": "Kill",
+                    "Start": 1.6,
+                    "Stop": 3.2
+                },
+                {
+                    "Label": "Thrill",
+                    "Start": 3.3,
+                    "Stop": 5
+                }
+            ]
+        },
+        {
             "Type": "Digital",
             "Id": 1,
             "PiSerial": "00000000909428a3",
